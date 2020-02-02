@@ -1,0 +1,24 @@
+{
+  "name": "wttest",
+  "version": "1.0.0",
+  "description": "Tracking: bittorrent-tracker end of stream(premature close)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimishsantosh107/WebTorrent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimishsantosh107/WebTorrent/issues"
+  },
+  "homepage": "https://github.com/nimishsantosh107/WebTorrent#readme",
+  "dependencies": {
+    "drag-drop": "^6.0.0",
+    "webtorrent": "^0.107.17"
+  },
+  "devDependencies": {}
+}

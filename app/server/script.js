@@ -1,3 +1,7 @@
+//GENERATES SERVERBUNDLE.js
+const WebTorrent = require('webtorrent');
+const dragDrop = require('drag-drop');
+
 var client = new WebTorrent();
 
 seedButton.addEventListener('click',function () {

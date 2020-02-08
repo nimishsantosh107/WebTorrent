@@ -19,6 +19,8 @@
   "dependencies": {
     "drag-drop": "^6.0.0",
     "express": "^4.17.1",
+    "fs-extra": "^8.1.0",
+    "localforage": "^1.7.3",
     "webtorrent": "^0.107.17"
   },
   "devDependencies": {}
